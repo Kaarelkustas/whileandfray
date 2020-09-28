@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\WhileAndFray\WhileAndFray\bin\Debug\netcoreapp3.1\WhileAndFray.exe
+C:\Users\opilane\source\repos\WhileAndFray\WhileAndFray\bin\Debug\netcoreapp3.1\WhileAndFray.deps.json
+C:\Users\opilane\source\repos\WhileAndFray\WhileAndFray\bin\Debug\netcoreapp3.1\WhileAndFray.runtimeconfig.json
+C:\Users\opilane\source\repos\WhileAndFray\WhileAndFray\bin\Debug\netcoreapp3.1\WhileAndFray.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\WhileAndFray\WhileAndFray\bin\Debug\netcoreapp3.1\WhileAndFray.dll
+C:\Users\opilane\source\repos\WhileAndFray\WhileAndFray\bin\Debug\netcoreapp3.1\WhileAndFray.pdb
+C:\Users\opilane\source\repos\WhileAndFray\WhileAndFray\obj\Debug\netcoreapp3.1\WhileAndFray.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\WhileAndFray\WhileAndFray\obj\Debug\netcoreapp3.1\WhileAndFray.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\WhileAndFray\WhileAndFray\obj\Debug\netcoreapp3.1\WhileAndFray.AssemblyInfo.cs
+C:\Users\opilane\source\repos\WhileAndFray\WhileAndFray\obj\Debug\netcoreapp3.1\WhileAndFray.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\WhileAndFray\WhileAndFray\obj\Debug\netcoreapp3.1\WhileAndFray.dll
+C:\Users\opilane\source\repos\WhileAndFray\WhileAndFray\obj\Debug\netcoreapp3.1\WhileAndFray.pdb
+C:\Users\opilane\source\repos\WhileAndFray\WhileAndFray\obj\Debug\netcoreapp3.1\WhileAndFray.genruntimeconfig.cache
